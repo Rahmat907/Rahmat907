@@ -3,7 +3,16 @@
 
 I'm a Backend Deveoperpassionate about building software that makes a difference.
 
-https://camo.githubusercontent.com/2ab4127dedd4ccf7d3dbb0d440cacca4f720cbb4f06c74350a37f6925b828523/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+## 🛠 Tech Stack
+- **Languages:** C, C++, JavaScript,Java 
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL  
+- **Frontend:** HTML, CSS, React  
+- **Tools:** Git, GitHub, Postman
+- **DevOps:** Docker, Vercel, Render
+
+  ## 📫 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/md-rahmat-ali-3481802ba/ 
 
    
 <!--
