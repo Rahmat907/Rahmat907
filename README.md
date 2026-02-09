@@ -1,7 +1,7 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Rahmat+Bhai+op)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Software+Engineer)](https://git.io/typing-svg)
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com/?I'm Software Engineer First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+   
 <!--
 **Rahmat907/Rahmat907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
