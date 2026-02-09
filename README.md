@@ -1,6 +1,10 @@
 ## Hi there, I'm Rahmat👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Always+Learning+By+Building)](https://git.io/typing-svg)
 
+I'm a Backend Deveoperpassionate about building software that makes a difference.
+
+https://camo.githubusercontent.com/2ab4127dedd4ccf7d3dbb0d440cacca4f720cbb4f06c74350a37f6925b828523/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465
+
    
 <!--
 **Rahmat907/Rahmat907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
