@@ -1,10 +1,10 @@
 ## Hi there, I'm Rahmat👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Always+Learning+By+Building)](https://git.io/typing-svg)
 
-I'm a Backend Deveoperpassionate about building software that makes a difference.
+I'm a Back-end Developer passionate about building software that makes a difference.
 
 ## 🛠 Tech Stack
-- **Languages:** C, C++, JavaScript,Java 
+- **Languages:** C, C++, JavaScript, Java 
 - **Backend:** Node.js, Express  
 - **Database:** MongoDB, MySQL  
 - **Frontend:** HTML, CSS, React  
