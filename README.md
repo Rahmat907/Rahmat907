@@ -5,11 +5,11 @@ I'm a Back-end Developer passionate about building software that makes a differe
 
 ## 🛠 Tech Stack
 - **Languages:** C, C++, JavaScript, Java 
-- **Backend:** Node.js, Express  
+- **Backend:** Spring boot,Node.js, Express  
 - **Database:** MongoDB, MySQL  
 - **Frontend:** HTML, CSS, React  
 - **Tools:** Git, GitHub, Postman
-- **DevOps:** Docker, Vercel, Render
+- **DevOps:** Docker,AWS service, Vercel, Render
 
   ## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/md-rahmat-ali-3481802ba/ 
